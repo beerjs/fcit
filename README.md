@@ -2,7 +2,7 @@
   <img src="https://camo.githubusercontent.com/4d3cb8b6f84c587d1e44d5524b40821429493c48/68747470733a2f2f7365637572652e67726176617461722e636f6d2f6176617461722f34336333363063353362373933636662313366373765666365653362643563623f733d34323026643d68747470733a2f2f613234382e652e616b616d61692e6e65742f6173736574732e6769746875622e636f6d253246696d6167657325324667726176617461727325324667726176617461722d6f72672d3432302e706e67" width="200px" alt="BeerJS Logo">
 </p>
 
-# BeerJS: FCIT
+# BeerJS: FCIT :wave:
 BeerJS: FCIT is for devs to get together, throw a few back, and learn collectively about JavaScript and other technologies. We value good beer & coffee and good code and encourage the sharing of both. We start the metup by just hanging out and chatting then we will get into presentations. Anyone can present for any amount of time.
 
 ## How to join
