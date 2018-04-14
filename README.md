@@ -22,7 +22,7 @@ Comment on the current meetings issue to formally request time or a topic.
 ## a note about beer 🍻
 beer.js is about creating social spaces to strengthen software communities. There is no requirement to drink to participate.
 
-## Refs
+## Refs :sunglasses:
 
 Join us on:
 * [Facebook][fb-url]
